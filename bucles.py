@@ -1,6 +1,6 @@
 #bucles
-#iterar listas
-#los bucles funcionan igual en listas que en tuplas
+#iterar listas y tuplas
+#los bucles funcionan igual en listas, tuplas y conjuntos
 
 animales = ["gato","perro","loro","vaca"]
 numeros = [1,2,3,4]
@@ -30,7 +30,7 @@ for num in range (10,20):
 for num in range (5):
     print (num)
 
-#recorremos lista por el indice --> NO OPTIMA
+#recorremos lista por el indice --> NO OPTIMA --> no funciona en conjuntos
 for num in range (len(numeros)):
     print (numeros[num])
     
