@@ -1,0 +1,19 @@
+Los datos son:
+Nombre: Vale
+Apellido: Garcia
+ ------
+Nombre: Amarinda
+Apellido: Loiseau
+ ------
+Nombre: Milena
+Apellido: Confeggi
+ ------
+Nombre: Martina
+Apellido: Gargano
+ ------
+Nombre: Micaela
+Apellido: Bogastti
+ ------
+Nombre: Rosario
+Apellido: Rissi
+ ------
